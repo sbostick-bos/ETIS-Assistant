@@ -1,0 +1,6 @@
+{
+  "name": "ETIS Command & GID Workflow Hub",
+  "description": "Executive workstation for Educational Technology Integration Specialists: Google Workspace integration (Drive, Sheets, Gmail, Calendar), Guided Inquiry Design (GID) 8-stage tracking, automated report generation, visual productivity analytics, role clarity engine, and faculty AI literacy incubator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
